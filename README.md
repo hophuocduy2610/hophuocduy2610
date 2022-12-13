@@ -20,7 +20,6 @@ I am Backend Developer. I will learn more Frontend to become Fullstack Developer
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"/>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg"/>
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <br/>
 
 
